@@ -4,7 +4,7 @@ Please fill here the issues you encountered using Snips Flow.
 
 If you are looking for **support**, use the [forum](https://forum.snips.ai). It will be easier to share your experience and the solution to your problem with the community 
 
-Before creating a new issue, check if it as not already be reported.
+Before creating a new issue, check if it has not already been reported.
 
 Consider reporting the following information to ease the debugging:
 - Which platform you are using (e.g. Raspbian on a Raspberry Pi3)
