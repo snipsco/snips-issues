@@ -2,37 +2,32 @@
 name: Bug report
 about: Something went wrong?
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
+**What's the issue?**
 A clear and concise description of what the bug is.
+Also please provide an estimation of its frequency (always, frequently, from time to time, rare)
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Use Cases Impacted**
+Which use cases are impeded by this bug.
+
+**How to reproduce**
+Step to reproduce the issue.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen
 
-**Logs/Screenshots**
-If applicable, add screenshots or logs to help explain your problem.
+**Version and Environment**
+Platform Version, OS, Assistant installed, etc..
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Logs**
+Add any other logs, stack traces, screenshots or even videos that could help for this issue investigation.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Additional information**
+If you have some details you want to share or the root cause seems identified, put it here.
 
-**Additional context**
-Add any other context about the problem here.
+**Workaround**
+If a workaround is known, put it here
