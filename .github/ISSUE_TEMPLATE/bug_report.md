@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen
 Platform Version, OS, Assistant installed, etc..
 
 **Logs**
-Add any other logs, stack traces, screenshots or even videos that could help for this issue investigation.
+Add any other logs, stack traces, screenshots or even videos that could help for this issue investigation. (e.g. `snips-watch -vvv` in case of dialogue issues)
 
 **Additional information**
 If you have some details you want to share or the root cause seems identified, put it here.
