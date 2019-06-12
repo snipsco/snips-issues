@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+This project is dedicated to bug reporting.
+
+If you need support, 
+You are a maker? Please use the forum => https://forum.snips.ai/
+You are a professional? Please contact our sales team => https://www.snips.ai/enterprise 
+
+---
+
 **What's the issue?**
 A clear and concise description of what the bug is.
 Also please provide an estimation of its frequency (always, frequently, from time to time, rare)
